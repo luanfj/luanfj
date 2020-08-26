@@ -1,3 +1,7 @@
+<a href="https://dribbble.com/shots/2227050-pulling-cycle-gif">
+  <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/2227050/pulling_cycle.gif" alt="Pulling Cycle animation" width=55% height=55% />
+</a>
+
 # Luan Fernandes
 
 [![Gmail Badge](https://img.shields.io/badge/-comercial.luanfernandes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.luanfernandes@gmail.com)](mailto:comercial.luanfernandes@gmail.com)
