@@ -6,7 +6,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...  
 
-Nas horas livres gosto de brincar com o Sony Vegas e After Effects fazendo edições de vídeos e passar um tempo com meus dog's ;)
+<p>Nas horas livres gosto de brincar com o Sony Vegas e After Effects fazendo edições de vídeos e passar um tempo com meus dog's ;)</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto muito conhecer novas pessoas com quem posso ter boas experiências :)</em>
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
