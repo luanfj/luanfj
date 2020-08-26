@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto muito conhecer novas pessoas com quem posso ter boas experiências :)</em>
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
-<a href="mailto:comercial.luanfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.luanfernandes@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/luan-fernandes-jose/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:comercial.luanfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.luanfernandes@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/luan-fernandes-jose/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
