@@ -4,7 +4,7 @@
 
 ### Luan Fernandes
 
-[![Gmail Badge](https://img.shields.io/badge/-E-Mail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.luanfernandes@gmail.com)](mailto:comercial.luanfernandes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-EMail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.luanfernandes@gmail.com)](mailto:comercial.luanfernandes@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Luan%20Fernandes-6633cc?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-fernandes-jose)](https://www.linkedin.com/in/luan-fernandes-jose) 
 
 🚀 Amante das tecnologias React, React Native e NodeJS. Buscando sempre evoluir e adquirir experiência. Atualmente venho focando no desenvolvimento das minhas habilidades em backend utilizando Princípios SOLID, TypeScript, TDD, Design Patterns e Clean Architecture. 💙
