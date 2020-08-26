@@ -7,6 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:comercial.luanfernandes@gmail.com)](mailto:comercial.luanfernandes@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Luan%20Fernandes-6633cc?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-fernandes-jose)](https://www.linkedin.com/in/luan-fernandes-jose) 
 
-🚀 Amante das tecnologias React, React Native e NodeJS. Buscando sempre evoluir e adquirir experiência. Atualmente venho focando no desenvolvimento das minhas habilidades em backend utilizando Princípios SOLID, TypeScript, TDD, Design Patterns e Clean Architecture. 💙
+<h4>🚀 Amante das tecnologias React, React Native e NodeJS. Buscando sempre evoluir e adquirir experiência. Atualmente venho focando no desenvolvimento das minhas habilidades em backend utilizando Princípios SOLID, TypeScript, TDD, Design Patterns e Clean Architecture. 💙</h4>
 
 ![LuanFernandes's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfj&layout=compact)
