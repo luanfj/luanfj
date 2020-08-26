@@ -1,5 +1,5 @@
 <a href="https://dribbble.com/shots/2227050-pulling-cycle-gif">
-  <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/2227050/pulling_cycle.gif" alt="Pulling Cycle animation" width=55% height=55% />
+  <img align="right" src="https://static.dribbble.com/users/3748605/screenshots/14070416/media/142851f1a118a58247a4747a39e35c1e.gif" alt="Pulling Cycle animation" width=55% height=55% />
 </a>
 
 # Luan Fernandes
